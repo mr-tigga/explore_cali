@@ -1,0 +1,8 @@
+*.txt
+
+# Comment
+
+log/*.log.[0-9]
+
+assets/photoshop/
+assets/video
